@@ -3,7 +3,7 @@
 Communicating with an Eyetracker
 =================================================
 
-PsychoPy has components that allow you to connect and communicate with eyetrackers directly from Builder - without any code! These steps will guide you through how to set up, calibrate, and record from your eyetracker.
+PsychoPy has components that allow you to connect and communicate with eyetrackers directly from Builder - without any code!! These steps will guide you through how to set up, calibrate, and record from your eyetracker.
 
 Step one: Know Your Eyetracker
 -------------------------------------------------------------
